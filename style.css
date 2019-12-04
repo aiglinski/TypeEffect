@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    margin: 0 !important;
+    min-height: 100vh;
+    display: flex;
+}
+
+h1 {
+    font-size: 8vw;
+
+}
+
+.container {
+    width: 100%;
+    vertical-align: middle;
+    justify-content: center;
+    margin: auto 0px;
+}
