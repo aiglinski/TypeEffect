@@ -30,6 +30,9 @@ function type(){
       }
     }, 500);
   };
+
+  testing 
+  
   if(backSpace == true){
       Del();
       setTimeout(function() {
